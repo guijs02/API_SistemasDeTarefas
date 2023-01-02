@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "//o40jJjg+5QlBJ5VUL1J3rN4Zw1eU81YuhDUXfJMI464eUqBf0wuNmX+wcWkUlmRc0pmWgBQQsbZlcjUX47Ww==",
+  "dgSpecHash": "dNbC1F4v14f+j4N7RctrVtcBoIaJrrua7zAgwIvGz1eYXrGcvSzAl6P7QsNZvr8AGXq0t+6lNB0kygoHHzzenQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guilherme\\source\\repos\\SistemasDeTarefas\\SistemasDeTarefas\\SistemasDeTarefas.csproj",
+  "projectFilePath": "C:\\Users\\Guilherme\\Desktop\\Projetos\\SistemasDeTarefas\\SistemasDeTarefas\\SistemasDeTarefas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guilherme\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Guilherme\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
