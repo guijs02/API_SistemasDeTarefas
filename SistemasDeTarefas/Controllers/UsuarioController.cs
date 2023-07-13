@@ -39,8 +39,8 @@ namespace SistemasDeTarefas.Controllers
             Usuario user = await _usuarioRepository.Atualizar(usuario,id);
             return Ok(user);
         }
-        [HttpDelete]
-        public async Task<ActionResult<Usuario>> DeleteUser(Usuario usuario, int id)
+        [HttpDelete("{id:int}")]
+        public async Task<ActionResult<Usuario>> DeleteUser(int id)
         {
             bool apagado = await _usuarioRepository.RemoveUser(id);
             return Ok(apagado);
