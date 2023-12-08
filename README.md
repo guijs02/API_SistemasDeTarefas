@@ -1,6 +1,27 @@
-Este Projeto é uma API de cadastro de usúarios realizado em C# e recursos do .NET CORE, utilizando o ORM Entity Framework para o mapeamento das entidades para o banco de dados SQL Server e aplicando a estruturação das pastas em camadas para melhor legibilidade. Neste desígnio foi utilizado injeções de dependência, utilização do pattern Repository como camada anterior ao do banco de dados, aplicação de conceitos do SOLID para que o Controller dependa de abstrações, consequentemente, diminuindo o alto acoplamento do código.
+## Sobre a API de Usuários
 
-Nesta API é possível realizar todas as instruções de CRUD com os endpoints:
+Este Projeto é uma API de cadastro de usúarios realizado em .NET Core para realizar as operações de um CRUD.
+
+## 📡 Tecnologias
+- Entity Framework Core
+- C#
+- .NET Core
+- SQL Server
+
+ ## 📖 Recursos e Conceitos aplicados
+ - SOLID
+ - Injeção de dependência
+ - LINQ
+ - API REST
+ - Swagger
+
+ ## 🛠 Patterns
+- Repository
+- Controller
+- Model
+<br><br>
+
+<h2>Endpoints:</h2>
 
 POST: api/Usuario
 ```json
